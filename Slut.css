@@ -1,0 +1,13 @@
+body{
+background-color: rgb(187, 69, 48);
+
+}
+@media screen and (max width: 600px){
+
+    #container-fluid{
+float: none; 
+width; 100%; 
+
+    }
+
+}

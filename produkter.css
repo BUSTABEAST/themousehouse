@@ -1,0 +1,35 @@
+#knapp {
+   
+    position: relative; 
+    margin-bottom: 10px; 
+    left: 800px;
+    z-index: 99; 
+    border: none; 
+    outline: none; 
+    background-color: rgb(80, 74, 74); 
+    color: rgb(255, 0, 0); 
+    cursor: pointer; 
+    padding: 15px; 
+    border-radius: 10px; 
+    font-size: 18px; 
+  }
+  
+  #knapp:hover {
+    background-color: #555; 
+  }
+
+  .btn {
+background-color: rgb(80, 74, 74);
+border: none; 
+color:rgb(255, 0, 0)
+  }
+
+  .btn:hover{
+    background-color: #555;
+    color: red;
+  }
+
+  body{
+
+    background-color: lightgray; 
+  }
